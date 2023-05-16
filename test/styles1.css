@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  }
+  
+  h1, h2, p ,h3{
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    height: 900px;
+  }
+  .bar{
+    padding: auto;
+    background-color: brown;
+    height: 5px;
+  }
+  .bar1{
+    padding: auto;
+    background-color: brown;
+    height: 5px;
+  }
+  .t1{
+    align-items: center;
+  }
